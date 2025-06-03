@@ -1,5 +1,5 @@
 # Portafolio_db
-### Un portafolio con base de datos que se puede desplegar usando Xamppp.
+### Un portafolio con base de datos que se puede desplegar localmente usando Xamppp.
 
 ## Tecnologias usadas
 1- Php
@@ -37,7 +37,9 @@
 5- Funciones
 
   - Crear proyectos
+
+  - Read proyectos
     
-  - Editar proyectos
-  - Eliminar proyectos
-  - Ver proyectos
+  - Update proyectos
+  
+  - Delete proyectos
