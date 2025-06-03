@@ -36,7 +36,7 @@
 
 5- Funciones
 
-  - Crear proyectos
+  - Create proyectos
 
   - Read proyectos
     
