@@ -3,8 +3,11 @@
 
 ## Tecnologias usadas
 1- Php
+
 2- Html
+
 3- Css
+
 4- Js
 
 ## IA usada
